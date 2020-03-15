@@ -1,0 +1,1 @@
+For admin consol, see https://github.com/ptrofimov/beanstalk_console (latest image: `adiachenko/beanstalkd-console`).
